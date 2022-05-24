@@ -1,0 +1,36 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+/* o (*) é para selecionar todo o arquivo*/
+
+body{
+    background-color: blueviolet;
+    text-align: center;
+    padding-top: 100px;
+    font: normal 16px arial, sans-serif;
+}
+
+section{
+    background-color: aqua;
+    margin: auto;
+    width: 500px;
+    border-radius: 10px; /*arredondamento das bordas*/
+    padding: 10px;
+}
+
+div{
+    padding: 10px;
+}
+
+#resultado{
+    width: 300px;
+    height: 200px;
+    border: 3px solid rgb(233, 213, 101);
+    text-align: center;
+    margin: auto;
+}
+
+footer{
+    margin-top: 10px;
+}
